@@ -1,0 +1,6 @@
+(a) Who goes with Fergus?
+
+    字符串型字面量
+(b)31.4   long double
+(c)1024.0   float型
+(d)3.14   long double

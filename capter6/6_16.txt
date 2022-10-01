@@ -1,0 +1,2 @@
+只能传入string类型的形参，不能传入字符串
+改为is_empty(const string &s)

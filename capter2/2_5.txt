@@ -1,0 +1,4 @@
+(a)char型字面值     wchar_t宽字符   字符串字面量    宽字符串字面量
+(b)int    unsigned int    long int   unsigned long int     八进制     十六进制
+(c)double      float     long double
+(d)int    unsigned int     double     double    
